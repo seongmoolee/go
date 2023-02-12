@@ -7,7 +7,7 @@ Golang 스터디
 go run main.go
 ```
 
-결과
+접속
 ```
-Hello World!
+http://localhost:8080/
 ```
